@@ -28,10 +28,10 @@ new coverage beginning December 1\. Marriages and domestic partnerships are cove
 
 Employee-portion of medical insurance premium per pay period:
 
-- Employee-only medical coverage: \$42.65
-- Employee-partner medical coverage: \$308.00
-- Employee-child(ren) medical coverage: \$92.57
-- Employee-family medical coverage: \$309.47
+- Employee-only medical coverage: \$42.81
+- Employee-partner medical coverage: \$309.89
+- Employee-child(ren) medical coverage: \$76.29
+- Employee-family medical coverage: \$293.38
 
 #### Dental Insurance
 
@@ -41,10 +41,10 @@ equally.
 
 Employee-portion of dental insurance premium per pay period:
 
-- Employee-only dental: \$21.20
-- Employee-partner dental: \$44.03
-- Employee-child(ren) dental: \$43.39
-- Employee-family dental: \$68.41
+- Employee-only dental: \$17.92
+- Employee-partner dental: \$36.06
+- Employee-child(ren) dental: \$37.94
+- Employee-family dental: \$57.46
 
 #### Vision Insurance
 
@@ -54,10 +54,10 @@ equally.
 
 Employee-portion of vision insurance premium per pay period:
 
-- Employee-only vision: \$2.63
-- Employee-partner vision: \$7.39
-- Employee-child(ren) vision: \$6.83
-- Employee-family vision: \$11.59
+- Employee-only vision: \$3.82
+- Employee-partner vision: \$7.82
+- Employee-child(ren) vision: \$7.42
+- Employee-family vision: \$11.39
 
 ### Paid Time Off
 
@@ -137,7 +137,9 @@ learn something that you feel enriches you as a person and employee.
 Since you work remotely, we want to make sure your home office is comfortable. You can expense up to \$1,000 to furnish
 your home office, every three years.
 
-### Co-working Space Stipend
+### Co-working Space OR Internet Stipend
 
-Box Products will pay up to \$200/month for you to use towards renting co-working space in your city. Please make sure
-you're using a true co-working space that's meant solely for working, not a club or social space.
+Box Products will pay up to \$200/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
+
+- When choosing a co-working space please make sure you're using a true co-working space that's meant solely for working, not a club or social space.
+- When choosing internet, please understand we're paying your internet bill not your cable and HBO package. A request to see your provider invoice might be made.
