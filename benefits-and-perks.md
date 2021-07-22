@@ -59,6 +59,12 @@ Employee-portion of vision insurance premium per pay period:
 - Employee-child(ren) vision: \$7.42
 - Employee-family vision: \$11.39
 
+### 401K Plan
+
+All eligible employees will be allow to defer a percentage of their pay each paycheck into either a Pretax or ROTH account. SALT will be making employer contributions of 5% of annual pay\* into the plan on your behalf. As an employee, you are not required to make employee deferrals in order to receive this employer contribution but will be able to decide how to invest contributions within the retirement plan.
+
+- _Employer Contributions can be made on your behalf at any time, at the company’s discretion and might be subject to change over time._
+
 ### Paid Time Off
 
 SALT Insure offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
