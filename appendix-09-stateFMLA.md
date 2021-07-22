@@ -15,9 +15,9 @@ you may be able to take up to 10 weeks leave.
 
 ## Washington
 
-- This is a voluntary plan fully funded by Box Products. Employees will not be taxed for this plan.
+- This is a voluntary plan fully funded by SALT Insure. Employees will not be taxed for this plan.
 - This plan is effective April 1, 2019, and in effect for no less than a year and continuously thereafter.
-- Current and future employees of Box Products, LLC are eligible for this policy.
+- Current and future employees of SALT Insure, LLC are eligible for this policy.
 - The definition of Family member can be found in the WA state law RCW 50A.04.010.
 - New child is defined as a new birth, adoption, or fostered minor.
 - A “Primary Caregiver” is the person who provides the child with the majority of their care during Parental Leave.
@@ -46,10 +46,10 @@ you may be able to take up to 10 weeks leave.
   residence.
 - Family and personal leave may be taken together for a total of up to 16 weeks. If you are the birthing parent and
   require additional time to recover, you may take an additional 2 weeks at \$1,000 per week for a total of 18 weeks.
-- If one of your family members is in the military and you experience an exigency circumstance, Box Products has you
+- If one of your family members is in the military and you experience an exigency circumstance, SALT Insure has you
   covered. Exigency circumstances can include short-notice deployment, military events and related activities, childcare
   and school activities, counseling, and post- deployment activities. You may take 4 weeks off at 100% pay. If after 4
   weeks you need more time, you may take up to an additional 8 weeks at 70% of your pay for a total of 12 weeks. Benefits
   will be calculated according to the Washington State policy - RCW 50A.04.020(4) and (5).
-- Box Products will continue to maintain your health insurance and your job at Box Products through the duration of your
+- SALT Insure will continue to maintain your health insurance and your job at SALT Insure through the duration of your
   leave.

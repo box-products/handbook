@@ -10,7 +10,7 @@ prev_url: "/getting-started"
 
 ## Cycles
 
-We work in 6-week or 8-week cycles at Box Products. There are typically six cycles to a year. Two are 8-week cycles,
+We work in 6-week or 8-week cycles at SALT Insure. There are typically six cycles to a year. Two are 8-week cycles,
 during Summer Hours, and the rest 6-week cycles. This fixed cadence serves to give us an internal sense of urgency, work
 as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
 
@@ -92,9 +92,9 @@ cycle, Jonathan's kickoff will list all the pitches that have been selected to b
 
 ## Asynchronously
 
-We have people working all sorts of different hours and from all sorts of different places at Box Products. That alone
+We have people working all sorts of different hours and from all sorts of different places at SALT Insure. That alone
 makes it hard to enforce a lot of tightly-coupled workflows during the day (that’s a feature not a bug). Most of the
-work you do at Box Products shouldn’t require you to be in constant communication throughout the entire day with
+work you do at SALT Insure shouldn’t require you to be in constant communication throughout the entire day with
 someone.
 
 It’s far better for everyone’s concentration and sanity if you collaborate as though most things will get answered
@@ -134,7 +134,7 @@ When we need to use the staging database, that should be self-service too. Have 
 Don’t require going to ops and waiting around for someone to do it for us.
 
 None of this means we can’t talk together or ask experts with more experience or expertise for their advice. It just
-means it shouldn’t be a required, necessary step to make Box Products better.
+means it shouldn’t be a required, necessary step to make SALT Insure better.
 
 As soon as organizational bottlenecks form, like a slew of features waiting for “the mobile integration”, we’re dragged
 towards more micro and detailed schedule management. It becomes a critical path with dependencies and making sure team Z
@@ -143,9 +143,9 @@ aspirations, so we have to work to counter that.
 
 ## With managers of one
 
-Managing at Box Products is [part-time
+Managing at SALT Insure is [part-time
 occupation](https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/), next to being involved
-with doing the work itself. This means we rely on everyone at Box Products to do a lot of self-management. People who do
+with doing the work itself. This means we rely on everyone at SALT Insure to do a lot of self-management. People who do
 this well qualify as [managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one), and we strive for
 everyone senior or above to embody this principle fully.
 

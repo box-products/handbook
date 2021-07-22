@@ -12,7 +12,7 @@ prev_url: "/how-we-work"
 
 Twice a year, the entire company gathers in Dallas for a week. Your first meet-up may be overwhelming; there are
 all of two people to meet 😜, most or all of whom you've only chatted with virtually. People tend to arrive to Dallas on
-the Sunday before the meet-up. Box Products books a hotel room block in a hotel nearby, so you don't need to worry about
+the Sunday before the meet-up. SALT Insure books a hotel room block in a hotel nearby, so you don't need to worry about
 finding a place to stay.
 
 Every morning, we gather for breakfast at 8am, and sessions start around 9am. The meet-up is not structured. There are
@@ -36,10 +36,10 @@ vacation or other engagement you can't cancel, you won't be admonished for missi
 ## Peer Recognition
 
 One of the sessions that we do schedule every meet-up is the recognition celebration. A few months before a meet-up,
-Jonathan asks everyone to think about their colleagues who have made Box Products a better place to work. Ideas range
+Jonathan asks everyone to think about their colleagues who have made SALT Insure a better place to work. Ideas range
 from professional excellence to the personal. At the meet-up, we set aside an hour for everyone to stand up and speak to
 their colleagues' accomplishments or general awesomeness over the previous 6 months. At this time we also give awards to
-employees on their 5, 10, 15 year anniversaries at Box Products.
+employees on their 5, 10, 15 year anniversaries at SALT Insure.
 
 ## Everyone On Support (EOS)
 

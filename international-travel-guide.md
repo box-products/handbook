@@ -25,10 +25,10 @@ We have answers!
 We'll focus on traveling to the US since attending company meetups is our primary reason for international business
 travel.
 
-Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), Box Products will cover the
+Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), SALT Insure will cover the
 cost of a business class ticket, up to \$5000, twice a year.
 
-When you travel for Box Products business, here's what you need:
+When you travel for SALT Insure business, here's what you need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six
    months.
@@ -87,8 +87,8 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to
 safeguard our data.
 
-(What's a work device? Anything you have company data on: your laptop where you work with Box Products source code; your
-tablet where you read Box Products email; your phone where you use the Box Products app; etc.)
+(What's a work device? Anything you have company data on: your laptop where you work with SALT Insure source code; your
+tablet where you read SALT Insure email; your phone where you use the SALT Insure app; etc.)
 
 ### TL;DR: Don't Travel With Work Data
 
@@ -109,29 +109,29 @@ tablet where you read Box Products email; your phone where you use the Box Produ
   phone number from Jonathan). Customs and Border Protection (CBP) is not required to allow you to contact an attorney,
   but Jonathan is your first call if possible.
 - 1Password:
-    - Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the Box Products team
-  vault instead. You have a personal vault inside the Box Products team which is perfect for those logins.
-    - Turn on Travel Mode. Go to https://box-products.1password.com/profile and click Enable Travel Mode.
-    - Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in
-  Travel Mode.
+  - Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the SALT Insure team
+    vault instead. You have a personal vault inside the SALT Insure team which is perfect for those logins.
+  - Turn on Travel Mode. Go to https://box-products.1password.com/profile and click Enable Travel Mode.
+  - Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in
+    Travel Mode.
 - Email apps:
-  - If you use an email app rather than Gmail in your browser, remove the @boxproducts.com account.
+  - If you use an email app rather than Gmail in your browser, remove the @saltinsure.com account.
   - Clear browser cookies, logging you out of all work sites.
 - Laptops: Clear cookies in Chrome, Safari, etc.
 - [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
 - [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings >
   Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-- Box Products source code:
-  - Make an encrypted archive of your Box Products git repos so you can download and restore it after you're through
-  customs.
-  - Delete all Box Products source code from your laptop.
+- SALT Insure source code:
+  - Make an encrypted archive of your SALT Insure git repos so you can download and restore it after you're through
+    customs.
+  - Delete all SALT Insure source code from your laptop.
 - Other sensitive documents:
   - Same deal as source code. Make an encrypted backup and remove from your laptop.
 - Dropbox:
   - Log out of Dropbox and disconnect.
 - Touch ID (optional):
   - Unlocking your device can be compelled at US border crossings, but other countries may be less intrusive, so it may
-  make sense to make your device a little harder to unlock.
+    make sense to make your device a little harder to unlock.
 - Disable Touch ID / Face ID on your phone, tablet, and laptop. Require a passcode/password to unlock.
 
 ## Checklist: At Customs
@@ -140,8 +140,8 @@ tablet where you read Box Products email; your phone where you use the Box Produ
 - Ensure your devices are charged up and turned on. Customs may balk at a bricked phone or laptop.
 - Common questions:
 - Purpose of your visit? Here for a business meeting in Dallas
-- Here to do work? Nope! Here on business, meeting with Box Products.
-- Where are you staying? Hampton Inn & Suites Colleyville DFW West 5300 State Hwy 121, Colleyville, TX 76034 +1 817 318  5000.
+- Here to do work? Nope! Here on business, meeting with SALT Insure.
+- Where are you staying? Hampton Inn & Suites Colleyville DFW West 5300 State Hwy 121, Colleyville, TX 76034 +1 817 318 5000.
 
 - Be straighforward and truthful. You're legit! No need to be cagey or misleading.
 
@@ -150,11 +150,11 @@ tablet where you read Box Products email; your phone where you use the Box Produ
 - Let us know! Mention in the meetup Campfire when you're through customs and have arrived in the US.
 - Touch ID: Reenable on your phone, tablet, and laptop.
 - Dropbox: Log in and reconnect, but only if needed during travel.
-- Box Products app: Reinstall on your phone, tablet, and laptop.
+- SALT Insure app: Reinstall on your phone, tablet, and laptop.
 - 1Password: Turn off Travel Mode. Go to https://box-products.1password.com/profile and click Disable Travel Mode. Next
   time you open 1Password, you'll have full access again.
-- Email apps: Add your @Box Products.com account again.
-- Box Products source code: Download and restore the archive of your Box Products git repos, but only if needed during
+- Email apps: Add your @SALT Insure.com account again.
+- SALT Insure source code: Download and restore the archive of your SALT Insure git repos, but only if needed during
   travel.
 - Other sensitive documents: Download and restore, but only if needed during travel.
 

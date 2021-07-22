@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Box Products Code Of Conduct"
+title: "SALT Insure Code Of Conduct"
 chapter: "Chapter A7:"
 next_link: "Performance Improvement Plan Process →"
 next_url: "/appendix-08-performance-plans"

@@ -10,13 +10,13 @@ prev_url: "/our-rituals"
 
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google,
 it's [just around one
-year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At Box Products,
+year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At SALT Insure,
 we're aiming for higher. We want to build a company that people can be proud of and want to work for every day. When you
-work at Box Products, it should absolutely be feasible to think about this as the place for making a life-long career.
+work at SALT Insure, it should absolutely be feasible to think about this as the place for making a life-long career.
 
 ## Mastery & Titles
 
-Advancing your career at Box Products doesn't mean giving up on your craft. Whether you work in programming, design,
+Advancing your career at SALT Insure doesn't mean giving up on your craft. Whether you work in programming, design,
 ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important
 since we're a relatively small company with just two layers of managerial cake: executives and team managers. And both
 the [executives and managers](/appendix-01-managers) still spend the majority
@@ -33,17 +33,17 @@ different. Here's an example of the titles for programming:
 - Principal Programmer
 
 While this is how we recognize mastery, it's by no means an expectation that everyone will start as a junior and end up
-as a principal. Box Products needs people and perspectives from all levels of skill. And for those who do end up
+as a principal. SALT Insure needs people and perspectives from all levels of skill. And for those who do end up
 progressing all the way through this path, it may well be a journey of many, many years, if not a decade+.
 
-But these titles make it clear to everyone where someone is in their career progression at Box Products. Note that these
-titles are about a particular role _at Box Products_. Someone may well have been a "Senior Designer" somewhere else with
-a different assessment criteria and a different workflow, and then still start at Box Products as a "Designer". We
-recognize mastery and titles at Box Products for the work done at Box Products.
+But these titles make it clear to everyone where someone is in their career progression at SALT Insure. Note that these
+titles are about a particular role _at SALT Insure_. Someone may well have been a "Senior Designer" somewhere else with
+a different assessment criteria and a different workflow, and then still start at SALT Insure as a "Designer". We
+recognize mastery and titles at SALT Insure for the work done at SALT Insure.
 
 Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS
 sticker at the meetups (not that we have those anyway!). But they do give newcomers another way of orienting themselves
-at the company and it gives everyone a clear way of tracking their personal career progression at Box Products.
+at the company and it gives everyone a clear way of tracking their personal career progression at SALT Insure.
 
 You can see the specific titles and proficiencies expected for:
 
@@ -55,7 +55,7 @@ You can see the specific titles and proficiencies expected for:
 
 ## Pay & Promotions
 
-Box Products pays in the top 75% for our industry at Dallas salary levels, regardless of where an employee lives. The
+SALT Insure pays in the top 75% for our industry at Dallas salary levels, regardless of where an employee lives. The
 comparison data is provided by a company called Robert Half that polls compensation data from all the major companies in
 our industry and plenty of our smaller peers as well.
 
@@ -63,14 +63,14 @@ The Robert Half data is reviewed once per year at the end of November. If it's w
 the top 75% have gone up, we'll increase pay on January 1st to follow suit. We don't decrease pay, even if the market
 rates may have dropped. If that happens, we'll hold them steady until they come up again.
 
-Everyone in the same role at the same level is paid the same at Box Products.
+Everyone in the same role at the same level is paid the same at SALT Insure.
 
 When someone gets a promotion, that is goes from one level to the next, they'll get a corresponding pay raise January
 1st as well.
 
 ## Performance Feedback
 
-Twice a year, Box Products employees receive formal feedback on their work performance.
+Twice a year, SALT Insure employees receive formal feedback on their work performance.
 
 ### Annual 360 Surveys
 
@@ -95,25 +95,29 @@ offer an emergency confidential-to-Jonathan option if you’re truly uncomfortab
 the person you’re reviewing.
 
 ### Manager 1:1s
+
 Once a year, you’ll meet with your manager for a 1:1 session. It's up to
 each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the
 same process for every team member.
 
 Managers should have a conversation with you about your:
-  - daily work content and load
-  - overall work satisfaction
-  - relationships with your team, manager, and company
-  - thoughts about personal growth and how those impact your work at Box Products
+
+- daily work content and load
+- overall work satisfaction
+- relationships with your team, manager, and company
+- thoughts about personal growth and how those impact your work at SALT Insure
 
 This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas. Managers will document your 1:1s along with any action items, with deadlines that come out of the meeting. Your Manager 1:1 takes place 6 months after your Annual 360.
 
 ### Performance Plans
+
 If your feedback relationship with your manager and your team is where it should be, nothing too surprising should be coming out of either your Annual 360 or your Annual 1:1! Managers should be addressing performance successes and problems in the moment, throughout the
 year, not waiting for one of these opportunities. If some unforeseen negative feedback does come out during your 360
 or 1:1, your manager could decide to initiate our formal [performance plan
 process](/appendix-08-performance-plans).
 
 ### Feedback on Feedback
+
 Both Processes described above are constantly evolving (or at least they should be!). Great feedback opportunities can only be designed so much — it takes continual feedback on the process from everyone to keep it useful. If you think any aspect of the process
 described here could be more efficient, more practical, and result in better actionable feedback for you, please let
 Jonathan know!

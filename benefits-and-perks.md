@@ -8,7 +8,7 @@ prev_link: "← Where We work"
 prev_url: "/where-we-work"
 ---
 
-Since the majority of Box Products employees work in the US, this section is written with that as the default. Some
+Since the majority of SALT Insure employees work in the US, this section is written with that as the default. Some
 benefits don't make sense in other countries, like private health insurance in other first-world countries with a
 well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the
 US as it makes sense, though.
@@ -61,16 +61,16 @@ Employee-portion of vision insurance premium per pay period:
 
 ### Paid Time Off
 
-Box Products offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
+SALT Insure offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
 national holidays](/appendix-10-holidays.html) every year. This is a guideline, so if you need a couple extra days, no
 problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any
 extended absence, so they’re not left in the lurch.
 
-We don't track sick days either. If you're under the weather, take the time you need to feel better. Box Products
+We don't track sick days either. If you're under the weather, take the time you need to feel better. SALT Insure
 recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health
 day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work
-with you to find a way to reduce the burden of your work at Box Products on your overall mental health. We really do
-want your work at Box Products to be the best work you do in your life, and we appreciate that that's not possible if
+with you to find a way to reduce the burden of your work at SALT Insure on your overall mental health. We really do
+want your work at SALT Insure to be the best work you do in your life, and we appreciate that that's not possible if
 you're uncertain about your health.
 
 You can go to Jonathan at any time, who with your permission can work with your manager to help you. Additionally, your
@@ -79,7 +79,7 @@ manager should check in with _you_, proactively, to periodically make sure you'r
 ### Personal Leave
 
 If you are under treatment or recovery for a serious medical condition and are unable to work because of it, let us know
-and you can take four weeks off at 100% pay. If after that, you're still unable to work, Box Products will continue to
+and you can take four weeks off at 100% pay. If after that, you're still unable to work, SALT Insure will continue to
 pay you 70% of your pay until you're better, up to twelve weeks off. These days are an emergency reserve, separate from
 your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager or
 Jonathan, and we will discuss what comes next on a case-by-case basis.
@@ -109,7 +109,7 @@ Some states require us to provide additional [](stateFMLA.md)benefits.
 
 ### Fitness Allowance
 
-Box Products will pay up to \$100/month for your gym membership, yoga studio membership, or whatever activity you do to
+SALT Insure will pay up to \$100/month for your gym membership, yoga studio membership, or whatever activity you do to
 stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations
 or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9
 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you.
@@ -120,7 +120,7 @@ Every month, you can expense up to \$100 towards a service or experience that en
 For some people that might mean a monthly massage. For others, that could be alternative medical treatments like
 acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness
 retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more
-relaxing _to you_ than a massage like a pedicure or facial. Box Products does not want to limit what is healing to
+relaxing _to you_ than a massage like a pedicure or facial. SALT Insure does not want to limit what is healing to
 you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Jonathan.
 
 ### Continuing Education Allowance
@@ -139,7 +139,7 @@ your home office, every three years.
 
 ### Co-working Space OR Internet Stipend
 
-Box Products will pay up to \$200/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
+SALT Insure will pay up to \$200/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
 
 - When choosing a co-working space please make sure you're using a true co-working space that's meant solely for working, not a club or social space.
 - When choosing internet, please understand we're paying your internet bill not your cable and HBO package. A request to see your provider invoice might be made.

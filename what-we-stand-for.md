@@ -4,21 +4,21 @@ title: "What We Stand For"
 chapter: "Chapter 2:"
 next_link: " What Influenced Us →"
 next_url: "/what-influenced-us"
-prev_link: "← Box Products is You"
+prev_link: "← SALT Insure is You"
 prev_url: "/box-products-is-you"
 ---
 
-### Box Companies
+### SALT Companies
 
-Box Products' parent company, Box Companies, has a history that extends 100 years. As a subsidiary, Box Products, is a child raised under the vision of Box Companies.
+SALT Insure's is majority Owned by Box Products, a Box Company. The Box Companies have a history that extends 100 years. As a subsidiary, SALT Insure, is a child raised under the vision of Box Companies.
 
 #### Vision Statement
 
->_To sow love and acceptance into men and women in the marketplace; To seek and model Heaven; To Advance Heaven!_
+> _To sow love and acceptance into men and women in the marketplace; To seek and model Heaven; To Advance Heaven!_
 
-### Box Products
+### SALT Insure
 
-Being raised is a great analogy here. We were birthed from the vision of Box companies but practically speaking that will manifest itself differently in our industry and values just as a child is an extension of their parent. Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to _us_, our company.
+Being raised is a great analogy here. We were birthed from the vision of SALT companies but practically speaking that will manifest itself differently in our industry and values just as a child is an extension of their parent. Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to _us_, our company.
 
 Key values:
 
@@ -31,19 +31,3 @@ Key values:
 - **Generosity.** Generosity is a wonderful virtue. Being generous is surprising someone on the other end with goodwill and asking for nothing in return. It could be time, attention, or treasure - we give what we're expected to, and then some.
 
 - **Independence.** This one's a bit of a contradiction. After speaking about shared values, here's one that breaks away: Independence. We encourage independent thought and original thinking. Since day one, we've always done things our way. We don't look to the industry or our competitors for the way forward. We see things with our own eyes, make our own calls, and offer thoughts, perspectives, ideas, and products that _we_ think are right, not that _they_ think are right.
-
-## Helping small businesses deal with growth
-
-Growth happens.
-
-Growth makes a lot of things more difficult - people don't know each other as well, information is harder to find, stuff gets lost, communication becomes muddled, it becomes harder to stay on top of everything that's going on, etc. What worked for 3 or 5 people, doesn't work as well at 6 or 8\. And certainly not 10, 15, 25 or more.
-
-At some point, growing small businesses need a system, something to stay organized, something to grow with so they don't lose control of themselves along the way. Company-wide communication, team-based communication, and project work needs a home.
-
-Most companies cobble together a latticework of separate tools as they grow, but the weight of disorganization and lack of order collapses and eventually catches up to them. Email doesn't cut it anymore. More meetings aren't going to solve the problem. And increasingly, incessant chatting creates exponentially more communication without the necessary structure and context to make it useful.
-
-This is where Basecamp comes in.
-
-Basecamp helps us organize our projects, internal communications, and client work _in one place_ so we have a central source of truth. People know what to do, they know where things are, it’s clear where things stand, and everyone’s accountable.
-
-This is what we do here. It takes many forms, and we're always working towards a more perfect system, but we help groups of people get their shit together - and keep it together - so they can do their best work with their team, in their company, for their own customers.
