@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Asking for help"
-chapter: "Chapter A10:"
+chapter: "Chapter A11:"
+next_link: "Shaping at SALT →"
+next_url: "/appendix-12-shaping-at-salt.html"
 prev_link: "← Holidays"
-prev_url: "/appendix-09-holidays"
+prev_url: "/appendix-10-holidays"
 ---
 
 As a fully distributed team, remote calls are our lifeblood for communication. Simply joining a remote team doesn't make you great at communicating remotely, though, and at some point, we're all going to need help. So who do we turn to? How do we ask? Here are a few essential tips we've developed to successfully ask for help within a remote team.
