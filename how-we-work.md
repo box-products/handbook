@@ -38,7 +38,7 @@ lined up, and all the other work that happens during and after the launch of new
 ## Communication
 
 It’s hard to keep up on what everyone is doing and what it means if you just watch the stream of latest activity
-scrolling along in Basecamp. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief
+scrolling along in Slack. (It’s also a waste of time and source of stress to even try.) Instead, we have four chief
 mechanisms for keeping everyone in the loop about the work that’s going on.
 
 First, there’s the daily question of "What did you work on today?", which supplies the nitty gritty details, but as a

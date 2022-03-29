@@ -25,15 +25,3 @@ still nice to have a work buddy to ping when you don't know where to turn. So we
 When you start, you'll be assigned a buddy. They'll introduce themselves, and they're totally willing to point you in
 the right direction when you need it. Of course, everyone is available to help, but it's nice to have a dedicated best
 work friend.
-
-## Setting Up Your Machine
-
-Before you start, Jonathan will order you a new laptop with the specs you request and any accessories you need, like an
-external keyboard, mouse, or monitor. Your manager will set up a Basecamp dedicated to your onboarding called "Welcome,
-[your name]!". When you start, you'll have access to that Basecamp. In it, you'll see to-dos linking to accounts or
-services that you need to set up -- an external hard drive, 2FA for various accounts, Dropbox, and private wi-fi to name
-a few. You'll also see things that your buddy or manager need to set up -- GitHub, Tower, Tuple among a whole list of
-other things. Don't worry if you don't know what some of these services are. Your buddy can help you through it.
-
-If you have a specific training schedule or training milestones to complete, that will go into your Welcome Basecamp
-too.

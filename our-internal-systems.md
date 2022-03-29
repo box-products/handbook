@@ -11,11 +11,11 @@ prev_url: "/making-a-career"
 Besides the customer-facing applications, we have a number of internal systems that help us support, report, and operate
 the company. They are as follows:
 
-### Basecamp
+### Slack
 
-Basecamp is a project management tool and is the main hub for everything product related in the company.
+Slack is a communicaiton tool and is the main hub for conversations in the company.
 
-[https://3.basecamp.com](https://3.basecamp.com)
+[https://slack.com](https://saltinsure.slack.com)
 
 ### Tuple
 
