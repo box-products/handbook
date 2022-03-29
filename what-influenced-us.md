@@ -2,8 +2,8 @@
 layout: page
 title: "What Influenced Us"
 chapter: "Chapter 3:"
-next_link: " Vocabulary →"
-next_url: "/vocabulary"
+next_link: " Where We Work →"
+next_url: "/where-we-work"
 prev_link: "← What We Stand For"
 prev_url: "/what-we-stand-for"
 ---

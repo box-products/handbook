@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Who Does What"
-chapter: "Chapter 6:"
+chapter: "Chapter 5:"
 next_link: " Benefits & Perks →"
 next_url: "/benefits-and-perks"
 prev_link: "← Where We work"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Making a Career"
-chapter: "Chapter 11:"
+chapter: "Chapter 10:"
 next_link: " Our Internal Systems →"
 next_url: "/our-internal-systems"
 prev_link: "← Our Rituals"

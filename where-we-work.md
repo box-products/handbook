@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Where We Work"
-chapter: "Chapter 5:"
-next_link: " Benefits & Perks →"
-next_url: "/benefits-and-perks"
-prev_link: "← Vocabulary"
-prev_url: "/vocabulary"
+chapter: "Chapter 4:"
+next_link: " Who Does What →"
+next_url: "/who-does-what"
+prev_link: "← What Influenced Us"
+prev_url: "/what-influenced-us"
 ---
 
 ## Office

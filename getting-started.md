@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Getting Started"
-chapter: "Chapter 8:"
+chapter: "Chapter 7:"
 next_link: "How We Work →"
 next_url: "/how-we-work"
 prev_link: "← Benfits & Perks"

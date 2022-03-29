@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Our Rituals"
-chapter: "Chapter 10:"
+chapter: "Chapter 9:"
 next_link: " Making A Career →"
 next_url: "/making-a-career"
 prev_link: "← How we Work"
@@ -10,7 +10,7 @@ prev_url: "/how-we-work"
 
 ## Meetups
 
-Twice a year, the entire company gathers in Dallas for a week. Your first meet-up may be overwhelming; there are
+Twice a year, the entire company gathers for a week. Your first meet-up may be overwhelming; there are
 all of two people to meet 😜, most or all of whom you've only chatted with virtually. People tend to arrive to Dallas on
 the Sunday before the meet-up. SALT Insure books a hotel room block in a hotel nearby, so you don't need to worry about
 finding a place to stay.
@@ -21,7 +21,7 @@ other team members may want to give a talk about a special circumstance they've 
 we bring in outside speakers, too. But, day-to-day, the meet-up is very loosely scheduled. Teams work together in a room
 at the office; people go out for coffee or ice cream; managers schedule one-on-ones with employees.
 
-Lunch is also shared in the office at noon, and dinners are up to you aside from one all-company dinner on Tuesday
+Lunch is typically shared in the office at noon, and dinners are up to you aside from one all-company dinner on Tuesday
 evening.
 
 It's important to acknowledge that meet-ups are tiring for a lot of us. We're away from our family, friends, and home
@@ -30,7 +30,7 @@ not getting much sleep. Remember that the meet-up is what you want it to be. If 
 dinner and take a bath in your hotel room. If you need some recharge time, and want to work from a coffee shop one
 afternoon, do it! If you want to go to the tiki bar at 2am, don't say we didn't warn you.
 
-Most people leave on Friday during the work day. You should come to every meet-up, but if you have a pre-planned
+Most people leave on Thursday during the work day. You should come to every meet-up, but if you have a pre-planned
 vacation or other engagement you can't cancel, you won't be admonished for missing one or two.
 
 ## Peer Recognition

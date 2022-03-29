@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A Note About Moonlighting"
-chapter: "Chapter 13:"
+chapter: "Chapter 12:"
 next_link: "International Travel Guide →"
 next_url: "/international-travel-guide.html"
 prev_link: "← Our Internal Systems"

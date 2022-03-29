@@ -178,6 +178,7 @@ blockquote p:last-child {
 // Extend paragraphs with `.lead` for larger introductory text.
 
 a {
-  color: $red;
+  color: $teal-dark;
   text-decoration: underline;
+  cursor: pointer;
 }

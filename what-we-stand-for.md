@@ -5,7 +5,7 @@ chapter: "Chapter 2:"
 next_link: " What Influenced Us →"
 next_url: "/what-influenced-us"
 prev_link: "← SALT Insure is You"
-prev_url: "/box-products-is-you"
+prev_url: "/salt-insure-is-you"
 ---
 
 ### SALT Companies

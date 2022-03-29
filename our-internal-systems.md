@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Our Internal Systems"
-chapter: "Chapter 12:"
+chapter: "Chapter 11:"
 next_link: "A Note About Moonlighting →"
 next_url: "/a-note-about-moonlighting"
 prev_link: "← Making a Career"

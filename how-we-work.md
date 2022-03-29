@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How we Work"
-chapter: "Chapter 9:"
+chapter: "Chapter 8:"
 next_link: " Our Rituals →"
 next_url: "/our-rituals"
 prev_link: "← Getting Started"

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "International Travel Guide"
-chapter: "Chapter 14:"
+chapter: "Chapter 13:"
 prev_link: "← Our Internal Systems"
 prev_url: "/our-internal-systems"
 ---

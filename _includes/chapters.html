@@ -1,0 +1,112 @@
+<div class="flex {% if page.layout == "home" %} justify-center {% endif %}" x-data="{ open: false }">
+  <div class="relative">
+    <button type="button"
+      class="inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-teal-600 hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500 no-underline"
+      aria-expanded="false" @click="open = ! open">
+      <span>Chapters</span>
+
+      <svg class="ml-2 h-5 w-5 " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
+        aria-hidden="true">
+        <path fill-rule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          clip-rule="evenodd" />
+      </svg>
+    </button>
+
+    <div
+      class="absolute z-10 mt-3 px-2 w-screen max-w-xs sm:px-0 h-64 overflow-scroll border rounded-md shadow-md"
+      x-show="open" @click.outside="open = false">
+      <div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
+        <div class="relative grid gap-2 bg-white px-3 py-2">
+          <a href="/salt-insure-is-you" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 1</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Salt Insure is You</p>
+          </a>
+          <a href="/what-we-stand-for" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 2</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">What We Stand For</p>
+          </a>
+          <a href="/where-influenced-us" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 3</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">What Influenced US</p>
+          </a>
+          <a href="/where-we-work" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 4</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Where We Work</p>
+          </a>
+          <a href="/who-does-what" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 5</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Who Does What</p>
+          </a>
+          <a href="/benefits-and-perks" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 6</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Benefits & Perks</p>
+          </a>
+          <a href="/getting-started" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 7</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Getting Started</p>
+          </a>
+          <a href="/how-we-work" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 8</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">How We Work</p>
+          </a>
+          <a href="/our-rituals" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 9</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Our Rituals</p>
+          </a>
+          <a href="/making-a-career" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 10</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Making a Career</p>
+          </a>
+          <a href="/our-internal-systems" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 11</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">Our Internal Systems</p>
+          </a>
+          <a href="/a-note-about-moonlighting" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 12</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">A Note about Moonlighting</p>
+          </a>
+          <a href="/international-travel-guide" class="block hover:bg-gray-100 p-2 rounded-md no-underline">
+            <p class="text-sm text-gray-500 mb-0 cursor-pointer">Chapter 13</p>
+            <p class="text-base font-medium text-gray-900 mb-0 cursor-pointer">International Travel Guide</p>
+          </a>
+          <hr class="border-b mx-4">
+          <span class="text-center block">Appendices</span>
+          <a href="/appendix-01-managers" class="block px-2rounded-md no-underline text-sm font-medium">
+            Executive, Manager, and Individual Responsibilities
+          </a>
+          <a href="/appendix-02-titles-for-data" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Titles for Data Analysts
+          </a>
+          <a href="/appendix-03-titles-for-designers" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Titles for Designers
+          </a>
+          <a href="/appendix-04-titles-for-ops" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Titles for Ops
+          </a>
+          <a href="/appendix-05-titles-for-programmers" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Titles for Programmers
+          </a>
+          <a href="/appendix-06-titles-for-support" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Titles for Support
+          </a>
+          <a href="/appendix-07-code-of-conduct" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Code of Conduct
+          </a>
+          <a href="/appendix-08-performance-plans" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Performance Plans
+          </a>
+          <a href="/appendix-09-stateFMLA" class="block px-2 rounded-md no-underline text-sm font-medium">
+            State FMLA
+          </a>
+          <a href="/appendix-10-holidays" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Holidays
+          </a>
+          <a href="/appendix-11-asking-for-help" class="block px-2 rounded-md no-underline text-sm font-medium">
+            Asking for help
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

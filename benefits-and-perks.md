@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Benefits & Perks"
-chapter: "Chapter 7:"
+chapter: "Chapter 6:"
 next_link: " Getting Started →"
 next_url: "/getting-started"
-prev_link: "← Where We work"
-prev_url: "/where-we-work"
+prev_link: "← Who Does What"
+prev_url: "/who-does-what"
 ---
 
 Since the majority of SALT Insure employees work in the US, this section is written with that as the default. Some
