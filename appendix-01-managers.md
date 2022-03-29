@@ -9,7 +9,7 @@ prev_url: "/international-travel-guide"
 ---
 
 SALT Insure has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how
-we break down each level’s duties.
+we break down each level's duties.
 
 ## Executive Responsibilities
 

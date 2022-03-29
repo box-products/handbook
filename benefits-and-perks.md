@@ -63,14 +63,14 @@ Employee-portion of vision insurance premium per pay period:
 
 All eligible employees will be allow to defer a percentage of their pay each paycheck into either a Pretax or ROTH account. SALT will be making employer contributions of 5% of annual pay\* into the plan on your behalf. As an employee, you are not required to make employee deferrals in order to receive this employer contribution but will be able to decide how to invest contributions within the retirement plan.
 
-- _Employer Contributions can be made on your behalf at any time, at the company’s discretion and might be subject to change over time._
+- _Employer Contributions can be made on your behalf at any time, at the company's discretion and might be subject to change over time._
 
 ### Paid Time Off
 
 SALT Insure offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
 national holidays](/appendix-10-holidays.html) every year. This is a guideline, so if you need a couple extra days, no
-problem. We don’t track your days off; we use the honor system. Just make sure to check with your team before taking any
-extended absence, so they’re not left in the lurch.
+problem. We don't track your days off; we use the honor system. Just make sure to check with your team before taking any
+extended absence, so they're not left in the lurch.
 
 We don't track sick days either. If you're under the weather, take the time you need to feel better. SALT Insure
 recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health

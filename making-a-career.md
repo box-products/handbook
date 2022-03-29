@@ -91,12 +91,12 @@ coworkers, please try to do so within a week. They shouldn't take more than 30 m
 than 5 peer surveys in a year, so please take care with the ones you are asked to complete! All 360 surveys consist of
 open-ended questions, as opposed to a 1 - 5 scoring scale. Answering this way takes more thought and time, but it
 results in a much more useful form of feedback! Your answers as a feedback-giver are _never anonymous_, however we
-offer an emergency confidential-to-Jonathan option if you’re truly uncomfortable sharing your thoughts directly with
-the person you’re reviewing.
+offer an emergency confidential-to-Jonathan option if you're truly uncomfortable sharing your thoughts directly with
+the person you're reviewing.
 
 ### Manager 1:1s
 
-Once a year, you’ll meet with your manager for a 1:1 session. It's up to
+Once a year, you'll meet with your manager for a 1:1 session. It's up to
 each manager to determine how best to approach that meeting, but we ask that whatever process they use, they use the
 same process for every team member.
 

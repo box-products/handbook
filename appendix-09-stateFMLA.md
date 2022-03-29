@@ -33,9 +33,9 @@ you may be able to take up to 10 weeks leave.
   of the last five completed calendar quarters or, if eligibility is not established, the last four completed calendar
   quarters immediately preceding the application for leave). The employee must also have worked at least 340 hours for the
   employer during the 12 months immediately preceding the date leave will commence. An employee that had coverage under
-  the state plan retains the state plan coverage until the employee qualifies for coverage under the employer’s voluntary
+  the state plan retains the state plan coverage until the employee qualifies for coverage under the employer's voluntary
   plan. If an employee was eligible to take benefits under the approved voluntary plan of a previous employer, that
-  employee would be immediately eligible for benefits under the current employer’s voluntary plan.
+  employee would be immediately eligible for benefits under the current employer's voluntary plan.
 - In addition to the 12 weeks outlined in the company wide policy, as the the birthing parent you may take an additional
   2 weeks of leave at \$1,000 a week if pregnancy complications result in a longer recovery period.
 - If one of your family members is under treatment or recovery for a serious medical condition and requires your care,
