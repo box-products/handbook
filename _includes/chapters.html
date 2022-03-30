@@ -14,7 +14,7 @@
     </button>
 
     <div
-      class="absolute z-10 mt-3 px-2 w-screen max-w-xs sm:px-0 h-64 overflow-scroll border rounded-md shadow-md"
+      class="absolute z-10 mt-3 w-screen max-w-xs h-64 overflow-scroll border rounded-md shadow-md {% if page.layout == "home" %} -ml-24 {% endif %}""
       x-show="open" @click.outside="open = false">
       <div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
         <div class="relative grid gap-2 bg-white px-3 py-2">
