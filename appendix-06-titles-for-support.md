@@ -14,7 +14,7 @@ We use the following criteria to assess the level and title of our Support team 
 
 - Throughput and productivity is uneven/unpredictable.
 - Adept at commonly asked questions and inquiries.
-- Uses HelpScout effectively.
+- Uses Intercom effectively.
 - Prefers email support over phone, as is not yet comfortable speaking adlib about product.
 - Works on routine emails or calls. Sometimes assigns emails to others versus finding the answers themselves, is new to SALT Insure's products
 - less than 2 yrs support experience
@@ -22,7 +22,7 @@ We use the following criteria to assess the level and title of our Support team 
 ## Customer Support Representative, level 2
 
 - Work beyond customer support emails is reviewed with a frequent need for material direction or implementation changes. Guidance is often required. Understands when to initiate on-call workflow with guidance from peers.
-- Throughput and productivity is predictable. Is able to adhere to our customer service values a majority of the time. Is adept at working with HelpScout and finds productivity shortcuts. Works evenly on calls and email, is able to field inquiries that are multi-faceted. Understands most, if not all, of the product features and can provide support on all mobile platforms.
+- Throughput and productivity is predictable. Is able to adhere to our customer service values a majority of the time. Is adept at working with Intercom and finds productivity shortcuts. Works evenly on calls and email, is able to field inquiries that are multi-faceted. Understands most, if not all, of the product features and can provide support on all mobile platforms.
 - Teaches classes and/or contributes to the knowledge database, works with software developers and others in the company to resolve issues.
 - Pattern recognition regarding problem areas in app is developing. Begins to recommend new features and enhancements.
 - Usually at least 2-5 years of experience being a customer support professional.
