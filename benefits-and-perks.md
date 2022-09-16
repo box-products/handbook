@@ -104,7 +104,7 @@ three months in advance, so we can coordinate the work-load accordingly.
 
 ### Family Leave
 
-If you are the primary caregiver of a new child, you can take up to 16 weeks leave at 100% paid salary. If you are the
+If you are the primary caregiver of a new child, you can take up to 8 weeks leave at 100% paid salary. If you are the
 secondary caregiver of a new child, you can take up to 6 weeks leave at 100% paid salary. You may also choose to take an
 additional 8 weeks leave unpaid as the primary or secondary caregiver. This time is meant for bonding with the new child
 and should commence from the date of birth or placement.
