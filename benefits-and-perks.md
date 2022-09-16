@@ -22,15 +22,15 @@ quite what we'd like them to be but we're working to improve them as often as po
 
 #### Medical Insurance
 
-Medical insurance is provided in the US via Cigna PPO. At this time, the company pays varying range from 50-75% of the
+Medical insurance is provided in the US via United Healthcare. At this time, the company pays varying range from 50-75% of the
 premium depending on tier and the employee pays the remaining 50-25%. Open enrollment is in November every year, with
 new coverage beginning December 1\. Marriages and domestic partnerships are covered equally.
 
 Employee-portion of medical insurance premium per pay period:
 
-- Employee-only medical coverage: \$42.81
-- Employee-partner medical coverage: \$309.89
-- Employee-child(ren) medical coverage: \$76.29
+- Employee-only medical coverage: \$33.90
+- Employee-partner medical coverage: \$274.68
+- Employee-child(ren) medical coverage: \$75.91
 - Employee-family medical coverage: \$293.38
 
 #### Dental Insurance
@@ -41,23 +41,23 @@ equally.
 
 Employee-portion of dental insurance premium per pay period:
 
-- Employee-only dental: \$17.92
-- Employee-partner dental: \$36.06
-- Employee-child(ren) dental: \$37.94
-- Employee-family dental: \$57.46
+- Employee-only dental: \$13.91
+- Employee-partner dental: \$27.05
+- Employee-child(ren) dental: \$32.94
+- Employee-family dental: \$48.27
 
 #### Vision Insurance
 
-Vision insurance is provided in the US via Principal. There is no company contribution at this time. Open enrollment is
+Vision insurance is provided in the US via Guardian. There is no company contribution at this time. Open enrollment is
 in November every year, with new coverage beginning December 1\. Marriages and domestic partnerships are covered
 equally.
 
 Employee-portion of vision insurance premium per pay period:
 
 - Employee-only vision: \$3.82
-- Employee-partner vision: \$7.82
-- Employee-child(ren) vision: \$7.42
-- Employee-family vision: \$11.39
+- Employee-partner vision: \$7.43
+- Employee-child(ren) vision: \$7.05
+- Employee-family vision: \$10.82
 
 ### 401K Plan
 
