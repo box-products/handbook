@@ -46,7 +46,7 @@ employees on their 5, 10, 15 year anniversaries at SALT Insure.
 Once every month or two, everyone in the company is called upon to do a Support shift. We call it Everyone on Support
 (EOS). Talking directly to customers all day helps us realize what's wrong, what's right, and what's utterly confusing
 about our products. For the first few times you do EOS, you'll have a Support buddy to help you write clear and correct
-answers to customer questions through Help Scout, our support response tool, but then you're on your own! But don't
+answers to customer questions through Intercom, our support response tool, but then you're on your own! But don't
 worry - Team OMG is always there to help you out.
 
 ## Company Feedback
