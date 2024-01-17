@@ -61,9 +61,7 @@ Employee-portion of vision insurance premium per pay period:
 
 ### 401K Plan
 
-All eligible employees will be allow to defer a percentage of their pay each paycheck into either a Pretax or ROTH account. SALT will be making employer contributions of 5% of annual pay\* into the plan on your behalf. As an employee, you are not required to make employee deferrals in order to receive this employer contribution but will be able to decide how to invest contributions within the retirement plan.
-
-- _Employer Contributions can be made on your behalf at any time, at the company's discretion and might be subject to change over time._
+All eligible employees will be allow to defer a percentage of their pay each paycheck into either a Pretax or ROTH account.
 
 ### Paid Time Off
 
@@ -82,14 +80,6 @@ you're uncertain about your health.
 You can go to Jonathan at any time, who with your permission can work with your manager to help you. Additionally, your
 manager should check in with _you_, proactively, to periodically make sure you're doing okay.
 
-### Personal Leave
-
-If you are under treatment or recovery for a serious medical condition and are unable to work because of it, let us know
-and you can take four weeks off at 100% pay. If after that, you're still unable to work, SALT Insure will continue to
-pay you 70% of your pay until you're better, up to twelve weeks off. These days are an emergency reserve, separate from
-your vacation/sick time described above. If after this period of time, you still cannot work, talk to your manager or
-Jonathan, and we will discuss what comes next on a case-by-case basis.
-
 ### Summer Hours
 
 During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31
@@ -97,55 +87,29 @@ each year. (An employee who has just been hired may have to complete a training 
 eligible). Summer weeks are 4-day work weeks, so when a holiday occurs over summer, you can take the holiday off _or_
 your normal summer day off. Any additional days off would count as vacation days.
 
-### Sabbatical
-
-Every three years, employees are eligible to take a one-month-long paid sabbatical. Just give a heads-up preferably
-three months in advance, so we can coordinate the work-load accordingly.
-
-### Family Leave
-
-If you are the primary caregiver of a new child, you can take up to 8 weeks leave at 100% paid salary. If you are the
-secondary caregiver of a new child, you can take up to 6 weeks leave at 100% paid salary. You may also choose to take an
-additional 8 weeks leave unpaid as the primary or secondary caregiver. This time is meant for bonding with the new child
-and should commence from the date of birth or placement.
-
-Some states require us to provide additional [](stateFMLA.md)benefits.
-
 ## Perks
 
-### Fitness Allowance
+### Fitness/Wellness Allowance
+SALT Insure will pay up to \$100/month as a fitness /wellness allowance. This can be used for a gym membership, yoga studio
+membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your
+stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your
+stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote
+regular activity for you.
 
-SALT Insure will pay up to \$100/month for your gym membership, yoga studio membership, or whatever activity you do to
-stay in shape. If it's not organized fitness, that's okay, too. You can use your stipend to pay for race registrations
-or even new outdoor running shoes. The only catch is that you can't "save up" your stipend. Sorry, but no saving 9
-months worth of fitness benefit, and buying a new bike; this benefit is meant to promote regular activity for you.
+**What is wellness**
+We see this as a service or experience that enhances your overall mental well-being.For some people that might mean a
+monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use
+the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a
+religiously-affiliated retreat, or book a service at a spa that is more relaxing _to you_ than a massage like a
+pedicure or facial. SALT Insure does not want to limit what is healing to you, so get creative with your self-care!
+If you have questions about what qualifies here, feel free to ping Jonathan.
 
-### Wellness Allowance
-
-Every month, you can expense up to \$100 towards a service or experience that enhances your overall mental well-being.
-For some people that might mean a monthly massage. For others, that could be alternative medical treatments like
-acupuncture or reiki. You could also use the stipend to defray your existing talk therapy co-pays, go on a wellness
-retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa that is more
-relaxing _to you_ than a massage like a pedicure or facial. SALT Insure does not want to limit what is healing to
-you, so get creative with your self-care! If you have questions about what qualifies here, feel free to ping Jonathan.
-
-### Continuing Education Allowance
-
-If you're interested in taking classes that you feel improve you professionally or personally, you have a \$1,000 annual
-stipend to do so (annual = a 12 month period, not necessarily 2017 or 2018). Some people take classes directly related
-to their career, while some take photography lessons or learn a musical instrument. It's up to you; the point is to
-learn something that you feel enriches you as a person and employee.
 
 ## Practical assistance
 
-### Home Office Set-up
-
-Since you work remotely, we want to make sure your home office is comfortable. You can expense up to \$1,000 to furnish
-your home office, every three years.
-
 ### Co-working Space OR Internet Stipend
 
-SALT Insure will pay up to \$200/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
+SALT Insure will pay up to \$175/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
 
 - When choosing a co-working space please make sure you're using a true co-working space that's meant solely for working, not a club or social space.
 - When choosing internet, please understand we're paying your internet bill not your cable and HBO package. A request to see your provider invoice might be made.
