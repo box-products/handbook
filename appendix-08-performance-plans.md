@@ -9,7 +9,7 @@ prev_url: "/appendix-07-code-of-conduct.html"
 ---
 
 We don't want any of our employees to feel unclear on where they stand, should they find themselves in need of improving
-their performance. So below are the steps we commit to taking at SALT Insure when your manager identifies a problem
+their performance. So below are the steps we commit to taking at SALT when your manager identifies a problem
 with your performance that must be addressed.
 
 ## STEP ONE: Identify the problem (ALERT)
@@ -93,12 +93,12 @@ process will remain logged for future reference, and your manager should add a n
 improvement at this stage. Case closed!
 
 If your manager feels your performance is not where it should be, this final conversation will be about whether or not
-SALT Insure remains a good fit for you.
+SALT remains a good fit for you.
 
 > Manager: It's been another six weeks since we talked about jobs slipping through the cracks and your lack of
 > responsiveness. You committed to making progress on your kickoff plans, answering daily check-in questions, and having
 > zero dropped assignments. All of these things are still not where you said they would be after now a total of 10 weeks
-> since we first talked about this problem. We have to talk about your future at SALT Insure now. You don't seem to be
+> since we first talked about this problem. We have to talk about your future at SALT now. You don't seem to be
 > able to manage your work after repeated warnings.
 
 ## STEP SIX: Document
@@ -111,8 +111,8 @@ the documentation (e.g. "I'm happy with Employee's progress at the moment, but i
 next 12 months, they move immediately to STEP THREE"). You the employee will again be made aware of what your manager is
 documenting.
 
-If you are terminated, we try our best to prevent that from creating a crisis for you. SALT Insure offers a severance
-package that pays out immediately upon your termination: one month's pay for every year you've worked at SALT Insure
+If you are terminated, we try our best to prevent that from creating a crisis for you. SALT offers a severance
+package that pays out immediately upon your termination: one month's pay for every year you've worked at SALT
 (up to 4 months). That severance package also includes medical and dental insurance for you and your dependents if
 you've been on our policies. And when you begin looking for work, your manager and the company will provide references
 or recommendations when possible.
@@ -124,16 +124,16 @@ Products as part of your employee record.
 
 _Support._
 
-The examples given above don't illustrate the level of care and support SALT Insure is able to give to you before and
+The examples given above don't illustrate the level of care and support SALT is able to give to you before and
 during this process. We know lots of stuff comes into play when it comes to work performance. If you're having personal
 or professional issues that are impeding how you're working, please tell us! Tell your manager, tell Jonathan, tell
 someone who has the resources to help. This process is not hard and fast, and it's not three strikes and you're out. The
 examples above are very convenient (almost... fake!), and real-life is never so perfectly scripted.
 
-We can and have worked with lots of employees to help them manage their workload so they can remain at SALT Insure to
+We can and have worked with lots of employees to help them manage their workload so they can remain at SALT to
 do their best work. We're not in the game of high turnover. We care about everyone who works here and if you're having
 performance issues, our first reaction is to help you, not shove you onto a formal performance plan. We only ask that
-you work with us to devise a realistic improvement plan that elevates you and works for SALT Insure.
+you work with us to devise a realistic improvement plan that elevates you and works for SALT.
 
 To recap, there are 3 steps for you the employee to be concerned about if you're facing a problem with your performance:
 
@@ -145,7 +145,7 @@ To recap, there are 3 steps for you the employee to be concerned about if you're
 
 The process outlined above is for employees who are dealing with manageable performance or disciplinary issues. If an
 employee is negligent in their duties or commits fraud or insubordination to the point that a performance plan won't
-serve SALT Insure or the employee, we retain the right to immediately terminate at-will as stated in our employment
-contracts. SALT Insure also retains the right to bypass steps outlined above, including offering a severance package,
+serve SALT or the employee, we retain the right to immediately terminate at-will as stated in our employment
+contracts. SALT also retains the right to bypass steps outlined above, including offering a severance package,
 if the severity of performance problems warrants that. In either of these cases, the reasoning will be spelled out in
 detail to the employee prior to termination.

@@ -9,68 +9,18 @@ prev_url: "/our-rituals"
 ---
 
 The average tenure of employees working at many technology companies today is shockingly low. At both Amazon and Google,
-it's [just around one
-year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At SALT Insure,
-we're aiming for higher. We want to build a company that people can be proud of and want to work for every day. When you
-work at SALT Insure, it should absolutely be feasible to think about this as the place for making a life-long career.
-
-## Mastery & Titles
-
-Advancing your career at SALT Insure doesn't mean giving up on your craft. Whether you work in programming, design,
-ops, support, or whatever, you can become better at the work itself and level-up that way. This is especially important
-since we're a relatively small company with just two layers of managerial cake: executives and team managers. And both
-the [executives and managers](/appendix-01-managers) still spend the majority
-of their time doing actual product work!
-
-Within each of our job functions, we've mapped our trajectory of mastery to five different levels. That title structure
-is shared amongst all departments, but the particulars of what characterizes one level from another will of course be
-different. Here's an example of the titles for programming:
-
-- Junior Programmer
-- Programmer
-- Senior Programmer
-- Lead Programmer
-- Principal Programmer
-
-While this is how we recognize mastery, it's by no means an expectation that everyone will start as a junior and end up
-as a principal. SALT Insure needs people and perspectives from all levels of skill. And for those who do end up
-progressing all the way through this path, it may well be a journey of many, many years, if not a decade+.
-
-But these titles make it clear to everyone where someone is in their career progression at SALT Insure. Note that these
-titles are about a particular role _at SALT Insure_. Someone may well have been a "Senior Designer" somewhere else with
-a different assessment criteria and a different workflow, and then still start at SALT Insure as a "Designer". We
-recognize mastery and titles at SALT Insure for the work done at SALT Insure.
-
-Day to day, though, these titles aren't really much of a factor. It's not like they're printed on your HELLO MY NAME IS
-sticker at the meetups (not that we have those anyway!). But they do give newcomers another way of orienting themselves
-at the company and it gives everyone a clear way of tracking their personal career progression at SALT Insure.
-
-You can see the specific titles and proficiencies expected for:
-
-- [Designers](/appendix-03-titles-for-designers)
-- [Ops](/appendix-04-titles-for-ops)
-- [Programmers](/appendix-05-titles-for-programmers)
-- [Support](/appendix-06-titles-for-support)
-- [Data](/appendix-02-titles-for-data)
+it's [just around one year](http://www.techrepublic.com/blog/career-management/tech-companies-have-highest-turnover-rate/). At SALT, we're aiming for higher. We want to build a company that people can be proud of and want to work for every day. When you
+work at SALT, it should absolutely be feasible to think about this as the place for making a life-long career.
 
 ## Pay & Promotions
 
-SALT Insure pays in the top 75% for our industry at Dallas salary levels, regardless of where an employee lives. The
-comparison data is provided by a company called Robert Half that polls compensation data from all the major companies in
-our industry and plenty of our smaller peers as well.
+At SALT we do a deep level of reserch to ensure we're paying market rate for our industry. Our goal is to keep our salary base in our headquarter region of DFW, but each role an candidate will be reviewed at hire an annuall. The comparison data is provided by a multiple sources including Robert Half, Salary.com, and Glass Door. Each company has robust systems that that polls compensation data from all the major companies in our industry and plenty of our smaller peers as well.
 
-The Robert Half data is reviewed once per year at the end of November. If it's warranted, that is if the market rates in
-the top 75% have gone up, we'll increase pay on January 1st to follow suit. We don't decrease pay, even if the market
-rates may have dropped. If that happens, we'll hold them steady until they come up again.
-
-Everyone in the same role at the same level is paid the same at SALT Insure.
-
-When someone gets a promotion, that is goes from one level to the next, they'll get a corresponding pay raise January
-1st as well.
+This data is reviewed once per year at the end of November. If it's warranted, that is if the market rates have gone up, we'll increase pay on January 1st to follow suit. We don't decrease pay, even if the market rates may have dropped. If that happens, we'll hold them steady until they come up again.
 
 ## Performance Feedback
 
-Twice a year, SALT Insure employees receive formal feedback on their work performance.
+Twice a year, SALT employees receive formal feedback on their work performance.
 
 ### Annual 360 Surveys
 
@@ -105,7 +55,7 @@ Managers should have a conversation with you about your:
 - daily work content and load
 - overall work satisfaction
 - relationships with your team, manager, and company
-- thoughts about personal growth and how those impact your work at SALT Insure
+- thoughts about personal growth and how those impact your work at SALT
 
 This is a two-way street! You should be offering your thoughts on these topics to your manager, and your manager should be giving you feedback about your performance in these areas. Managers will document your 1:1s along with any action items, with deadlines that come out of the meeting. Your Manager 1:1 takes place 6 months after your Annual 360.
 

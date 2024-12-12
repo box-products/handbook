@@ -25,10 +25,10 @@ We have answers!
 We'll focus on traveling to the US since attending company meetups is our primary reason for international business
 travel.
 
-Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), SALT Insure will cover the
+Keep in mind, if you're traveling more than 10 hours in the air (not including layovers), SALT will cover the
 cost of a business class ticket, up to \$5000, twice a year.
 
-When you travel for SALT Insure business, here's what you need:
+When you travel for SALT business, here's what you need:
 
 1. A passport! Apply for one now if you don't have one already. Renew now if your passport expires in the next six
    months.
@@ -87,8 +87,8 @@ When you enter the US, you may be asked to unlock your phone or laptop for searc
 data like source code, passwords, and customer account data. Yikes! We need to take some precautionary measures to
 safeguard our data.
 
-(What's a work device? Anything you have company data on: your laptop where you work with SALT Insure source code; your
-tablet where you read SALT Insure email; your phone where you use the SALT Insure app; etc.)
+(What's a work device? Anything you have company data on: your laptop where you work with SALT source code; your
+tablet where you read SALT email; your phone where you use the SALT app; etc.)
 
 ### TL;DR: Don't Travel With Work Data
 
@@ -109,8 +109,8 @@ tablet where you read SALT Insure email; your phone where you use the SALT Insur
   phone number from Jonathan). Customs and Border Protection (CBP) is not required to allow you to contact an attorney,
   but Jonathan is your first call if possible.
 - 1Password:
-  - Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the SALT Insure team
-    vault instead. You have a personal vault inside the SALT Insure team which is perfect for those logins.
+  - Check that your personal 1Password vault doesn't have any work logins. If it does, move them to the SALT team
+    vault instead. You have a personal vault inside the SALT team which is perfect for those logins.
   - Turn on Travel Mode. Go to https://box-products.1password.com/profile and click Enable Travel Mode.
   - Open 1Password on each device you're traveling with (laptop, phone, iPad, etc) so it can wipe its data while it's in
     Travel Mode.
@@ -121,10 +121,10 @@ tablet where you read SALT Insure email; your phone where you use the SALT Insur
 - [iOS](https://support.apple.com/en-us/HT201265): Settings > Safari > Clear History and Website Data
 - [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en): Chrome > Settings >
   Privacy > Clear browsing data. Check Cookies and site data; uncheck all the other items. > Clear data.
-- SALT Insure source code:
-  - Make an encrypted archive of your SALT Insure git repos so you can download and restore it after you're through
+- SALT source code:
+  - Make an encrypted archive of your SALT git repos so you can download and restore it after you're through
     customs.
-  - Delete all SALT Insure source code from your laptop.
+  - Delete all SALT source code from your laptop.
 - Other sensitive documents:
   - Same deal as source code. Make an encrypted backup and remove from your laptop.
 - Dropbox:
@@ -140,7 +140,7 @@ tablet where you read SALT Insure email; your phone where you use the SALT Insur
 - Ensure your devices are charged up and turned on. Customs may balk at a bricked phone or laptop.
 - Common questions:
 - Purpose of your visit? Here for a business meeting in Dallas
-- Here to do work? Nope! Here on business, meeting with SALT Insure.
+- Here to do work? Nope! Here on business, meeting with SALT.
 - Where are you staying? Hampton Inn & Suites Colleyville DFW West 5300 State Hwy 121, Colleyville, TX 76034 +1 817 318 5000.
 
 - Be straighforward and truthful. You're legit! No need to be cagey or misleading.
@@ -150,11 +150,11 @@ tablet where you read SALT Insure email; your phone where you use the SALT Insur
 - Let us know! Mention in the meetup Campfire when you're through customs and have arrived in the US.
 - Touch ID: Reenable on your phone, tablet, and laptop.
 - Dropbox: Log in and reconnect, but only if needed during travel.
-- SALT Insure app: Reinstall on your phone, tablet, and laptop.
+- SALT app: Reinstall on your phone, tablet, and laptop.
 - 1Password: Turn off Travel Mode. Go to https://box-products.1password.com/profile and click Disable Travel Mode. Next
   time you open 1Password, you'll have full access again.
-- Email apps: Add your @SALT Insure.com account again.
-- SALT Insure source code: Download and restore the archive of your SALT Insure git repos, but only if needed during
+- Email apps: Add your @SALT.com account again.
+- SALT source code: Download and restore the archive of your SALT git repos, but only if needed during
   travel.
 - Other sensitive documents: Download and restore, but only if needed during travel.
 

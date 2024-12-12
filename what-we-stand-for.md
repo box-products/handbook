@@ -4,19 +4,19 @@ title: "What We Stand For"
 chapter: "Chapter 2:"
 next_link: " What Influenced Us →"
 next_url: "/what-influenced-us"
-prev_link: "← SALT Insure is You"
+prev_link: "← SALT is You"
 prev_url: "/salt-insure-is-you"
 ---
 
 ### SALT Companies
 
-SALT Insure's is majority Owned by Box Products, a Box Company. The Box Companies have a history that extends 100 years. As a subsidiary, SALT Insure, is a child raised under the vision of Box Companies.
+SALT's is majority Owned by Box Products, a Box Company. The Box Companies have a history that extends 100 years. As a subsidiary, SALT, is a child raised under the vision of Box Companies.
 
 #### Vision Statement
 
 > _To sow love and acceptance into men and women in the marketplace; To seek and model Heaven; To Advance Heaven!_
 
-### SALT Insure
+### SALT
 
 Being raised is a great analogy here. We were birthed from the vision of SALT companies but practically speaking that will manifest itself differently in our industry and values just as a child is an extension of their parent. Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything's harder when we all believe different things about what's important to _us_, our company.
 

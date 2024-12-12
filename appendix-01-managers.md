@@ -8,7 +8,7 @@ prev_link: "← International Travel Guide"
 prev_url: "/international-travel-guide"
 ---
 
-SALT Insure has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how
+SALT has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here's how
 we break down each level's duties.
 
 ## Executive Responsibilities
@@ -65,5 +65,5 @@ the way product work is, and that's okay! It's part of a Manager's tough job, an
 
 Managers who feel that their energy for product work is _consistently_ suffering as a result of people management
 means
-something is structurally failing at SALT Insure. Those managers should raise the issue with Jonathan so we can all
+something is structurally failing at SALT. Those managers should raise the issue with Jonathan so we can all
 work on fixing the root problem.

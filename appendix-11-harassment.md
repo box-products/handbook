@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Harrassment"
-chapter: "Chapter A12:"
+chapter: "Chapter A11:"
 prev_link: "← Asking For Help"
-prev_url: "/appendix-11-asking-for-help"
+prev_url: "/appendix-10-asking-for-help"
 ---
 
-It is SALT Insure’s policy to prohibit intentional and unintentional harassment of or against job applicants, contractors, interns, volunteers, or employees by another employee, supervisor, vendor, customer, or a third party based on actual or perceived race, color, creed, religion, national origin, ancestry, citizenship status, age, sex or gender (including pregnancy, childbirth, and pregnancy-related conditions), gender identity or expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, genetic information, or any other characteristic protected by applicable federal, state, or local laws. SALT Insure will not tolerate such conduct.
+It is SALT’s policy to prohibit intentional and unintentional harassment of or against job applicants, contractors, interns, volunteers, or employees by another employee, supervisor, vendor, customer, or a third party based on actual or perceived race, color, creed, religion, national origin, ancestry, citizenship status, age, sex or gender (including pregnancy, childbirth, and pregnancy-related conditions), gender identity or expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, genetic information, or any other characteristic protected by applicable federal, state, or local laws. SALT will not tolerate such conduct.
 
-Furthermore, any retaliation against an individual who has complained about sexual or other harassment or retaliation against individuals for cooperating with an investigation of a harassment complaint is similarly unlawful and will not be tolerated. SALT Insure will take all reasonable steps to prevent and eliminate unlawful harassment.
+Furthermore, any retaliation against an individual who has complained about sexual or other harassment or retaliation against individuals for cooperating with an investigation of a harassment complaint is similarly unlawful and will not be tolerated. SALT will take all reasonable steps to prevent and eliminate unlawful harassment.
 
 Definition of “unlawful harassment.” “Unlawful harassment” is conduct that has the purpose or effect of creating an intimidating, hostile, or offensive work environment; has the purpose or effect of substantially and unreasonably interfering with an individual’s work performance, or otherwise adversely affects an individual’s employment opportunities because of the individual’s membership in a protected class.
 
@@ -28,13 +28,13 @@ While it is not possible to list all those additional circumstances that may con
 •	Inquiries into one’s sexual experiences; and
 •	Discussion of one’s sexual activities.
 
-All employees should note that, as stated above, retaliation against an individual who has complained about sexual or other harassment and retaliation against individuals for cooperating with an investigation of sexual or other harassment complaints violate SALT Insure’s policy.
+All employees should note that, as stated above, retaliation against an individual who has complained about sexual or other harassment and retaliation against individuals for cooperating with an investigation of sexual or other harassment complaints violate SALT’s policy.
 
 Complaint procedure. If you believe you have been subject to or have witnessed unlawful discrimination, including sexual or other forms of unlawful harassment or other inappropriate conduct. You are requested and encouraged to make a complaint. You may complain directly to your immediate supervisor or department manager, the HR director, or any other member of management with whom you feel comfortable bringing such a complaint. Similarly, if you observe acts of discrimination toward or harassment of another employee, you are requested and encouraged to report this to one of the individuals listed above.
 
 All complaints will be investigated promptly, and confidentiality will be protected to the extent possible. A timely resolution of each complaint should be reached and communicated to the parties involved.
 
-If the investigation confirms conduct that violates this policy has occurred, SALT Insure will take immediate, appropriate, corrective action, including discipline, up to and including immediate termination.
+If the investigation confirms conduct that violates this policy has occurred, SALT will take immediate, appropriate, corrective action, including discipline, up to and including immediate termination.
 
 No reprisal, retaliation, or other adverse action will be taken against an employee for making a complaint or report of discrimination or harassment or for assisting in the investigation of any such complaint or report. Any suspected retaliation or intimidation should be reported immediately to one of the persons identified above.
 

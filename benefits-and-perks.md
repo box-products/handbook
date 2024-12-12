@@ -8,7 +8,7 @@ prev_link: "← Who Does What"
 prev_url: "/who-does-what"
 ---
 
-Since the majority of SALT Insure employees work in the US, this section is written with that as the default. Some
+Since the majority of SALT employees work in the US, this section is written with that as the default. Some
 benefits don't make sense in other countries, like private health insurance in other first-world countries with a
 well-functioning, national health care system. We will try our best to provide comparable benefits and perks outside the
 US as it makes sense, though.
@@ -61,55 +61,49 @@ Employee-portion of vision insurance premium per pay period:
 
 ### 401K Plan
 
-All eligible employees will be allow to defer a percentage of their pay each paycheck into either a Pretax or ROTH account.
+All eligible employees will be allowed to defer a percentage of their pay each paycheck into either a Pretax or ROTH account.
 
 ### Paid Time Off
 
-SALT Insure offers 3 weeks of paid vacation, a few extra personal days to use at your discretion, and the [standard
-national holidays](/appendix-10-holidays.html) every year. This is a guideline, so if you need a couple extra days, no
-problem. We don't track your days off; we use the honor system. Just make sure to check with your team before taking any
-extended absence, so they're not left in the lurch.
+SALT offers the following paid time off:
+- 15 paid vacation days
+- 3 sick / personal days
+- a customized subset of 10 additional days based on the [US federal holidays](/appendix-09-holidays.html).
 
-We don't track sick days either. If you're under the weather, take the time you need to feel better. SALT Insure
-recognizes, too, that your mental health is just as important as your physical health. Consider taking a mental health
-day every now and again when you're feeling overwhelmed or mentally fatigued. If a day or two won't cut it, we'll work
-with you to find a way to reduce the burden of your work at SALT Insure on your overall mental health. We really do
-want your work at SALT Insure to be the best work you do in your life, and we appreciate that that's not possible if
-you're uncertain about your health.
+As small but growing company, it's crucial that we utilize this paid time off respectfully. That said, we're not here to micro manage you. We have an informal tracking system, that empowers you to consider your teams circumstance, communicate with your oversight and ensure your team is prepared for your absence.
 
-You can go to Jonathan at any time, who with your permission can work with your manager to help you. Additionally, your
-manager should check in with _you_, proactively, to periodically make sure you're doing okay.
+For any time off, team members should post in our #time-off slack channel and block the time frame on their work calendars. For periods longer than 3 days, please check-in with your oversight as we may be planning for your presense during a critical event. (Sales conference, Product launch, etc.)
+
+#### Vacation
+While there are not many, SALT will have some block dates where key roles are needed. In most cases we know our key events, conferences and product launches, ahead of time. Discuss these with your oversight so you can make informed plans.
+
+Vacation scheduling amongst teams is first come first serve. While it's our desire that you're able to use your time off in a manner that best suits your need, as a small team, we can't all be gone at once. Multiple absenses on a single team must be approved by your oversight.
+
+#### Personal / Sick Days
+Sick days are not something anyone is excited about. If you're under the weather, take the time you need to feel better. Communicating with your oversight and team remains key. Not communicating will always be more egregious than your being sick, and the team having to cover for you.
+
+Likewise, we understand that sometimes, you need to take an afternoon, or even a day to clear your head. We fully support this. Taking the space you need to be 100% ensures you're feeling your best. Both you and SALT win as a result.
+
+There is a lot of trust and autonomy within our time off policy if it's utilized respectfully. We're entrusting you with that decision making process, but reserve the right to review your useage of this time off if we feel your responsibilites are being ignored, or the company is seeing a negative effect from your time off scheduling. Please go to Jonathan with any questions about this policy.
 
 ### Summer Hours
 
-During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 1 through August 31
-each year. (An employee who has just been hired may have to complete a training program per their team lead to be
-eligible). Summer weeks are 4-day work weeks, so when a holiday occurs over summer, you can take the holiday off _or_
-your normal summer day off. Any additional days off would count as vacation days.
+During summer, we work 4-day work weeks, aka "summer hours". Summer hours are in effect from May 15th through August 15th
+each year. New employees may have to complete training to be eligible for this benefit.
+
+While Summer hours is an important cultural pricipal at SALT and our desire is to continue it far into the future, we'd be remiss if we didn't acknowledge that our capacity to offer this is dependant on many outside factors. The availability, period and terms of summer hours will be reviewed annually.
 
 ## Perks
+In previous years, SALT offered specific benefits to employees, fitness and wellness, co-working, internet stipends, etc. Due to complexities with accounting, and proper tax practices, we now offer what we call an "Employee Rent" benefit.
 
-### Fitness/Wellness Allowance
-SALT Insure will pay up to \$100/month as a fitness /wellness allowance. This can be used for a gym membership, yoga studio
-membership, or whatever activity you do to stay in shape. If it's not organized fitness, that's okay, too. You can use your
-stipend to pay for race registrations or even new outdoor running shoes. The only catch is that you can't "save up" your
-stipend. Sorry, but no saving 9 months worth of fitness benefit, and buying a new bike; this benefit is meant to promote
-regular activity for you.
+This $275 credit can be applied for monthly through Netsuite, and will be a direct deposit to your bank account each month after submission. Our desire is that your would utilize this credit for the following items:
 
-**What is wellness**
-We see this as a service or experience that enhances your overall mental well-being.For some people that might mean a
-monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use
-the stipend to defray your existing talk therapy co-pays, go on a wellness retreat, take a meditation class, attend a
-religiously-affiliated retreat, or book a service at a spa that is more relaxing _to you_ than a massage like a
-pedicure or facial. SALT Insure does not want to limit what is healing to you, so get creative with your self-care!
-If you have questions about what qualifies here, feel free to ping Jonathan.
+### Fitness
+Desk jobs mean very little activity and we want to promote good health for all employees. We hope you will use these funds for a gym or yoga studio membership, a new pair of running shoes, or whatever activity you enjoy to promote a healthy lifestlye.
 
+### Wellness
+What is wellness? We see this as a service or experience that enhances your overall mental well-being. For some people that might mean a monthly massage. For others, that could be alternative medical treatments like acupuncture or reiki. You could also use
+it to cover therapy fees, go on a wellness retreat, take a meditation class, attend a religiously-affiliated retreat, or book a service at a spa. Do what make your heart smile.
 
-## Practical assistance
-
-### Co-working Space OR Internet Stipend
-
-SALT Insure will pay up to \$175/month for you to use towards renting co-working space in your city or to get improved internet for your home office. This is benefit is a "pick one" option, as in, choose home internet OR a remote office space. Don't be greedy 😜
-
-- When choosing a co-working space please make sure you're using a true co-working space that's meant solely for working, not a club or social space.
-- When choosing internet, please understand we're paying your internet bill not your cable and HBO package. A request to see your provider invoice might be made.
+### Co-working Space OR Gigabit Fiber Internet
+The remote world requires quiet space and fast internet. Utilize these funds to help offset the cost of premium fiber internet, or your favorite co-working spot.

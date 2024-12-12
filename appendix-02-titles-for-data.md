@@ -8,7 +8,7 @@ prev_link: "← Executive, Manager, and Individual Responsibilities"
 prev_url: "/appendix-01-managers"
 ---
 
-We use the following criteria to assess the level and title of our data analysts at SALT Insure. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
+We use the following criteria to assess the level and title of our data analysts at SALT. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualized discussion about career progression.
 
 ## General job description
 

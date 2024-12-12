@@ -8,7 +8,7 @@ prev_link: "← What We Stand For"
 prev_url: "/what-we-stand-for"
 ---
 
-If you want to learn the SALT Insure view of the world, it helps to know what influences helped form it. Even though SALT Insure was founded in 2019, Jonathan has been in product and software development for over 10 years prior. In that time, there's been a number of key influences that have marked the company culture.
+If you want to learn the SALT view of the world, it helps to know what influences helped form it. Even though SALT was founded in 2019, Jonathan has been in product and software development for over 10 years prior. In that time, there's been a number of key influences that have marked the company culture.
 
 ## Companies
 
@@ -19,13 +19,13 @@ If you want to learn the SALT Insure view of the world, it helps to know what in
 ## Books
 
 - [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745): An exploration on thinking beyond the standard business blueprint.
-- [Remote](https://www.amazon.com/gp/product/0804137501/): Remote isn't just an option at SALT Insure it's our default. If you've never worked remote before start here.
-- [It Doesn't Have to be Crazy at Work](https://www.amazon.com/gp/product/0062874780): SALT Insure began in 2019\. This book is a primer on our vision and launching pad as we begin.
+- [Remote](https://www.amazon.com/gp/product/0804137501/): Remote isn't just an option at SALT it's our default. If you've never worked remote before start here.
+- [It Doesn't Have to be Crazy at Work](https://www.amazon.com/gp/product/0062874780): SALT began in 2019\. This book is a primer on our vision and launching pad as we begin.
 - [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299): This helped us reshape the way we view success and proved that change doesn't need to be big to be powerful.
 
 ## People
 
-- [David Heinemeier Hansson (DHH)](https://twitter.com/dhh)
-- [Jason Fried](https://twitter.com/jasonfried)
-- [Ryan Singer](https://twitter.com/rjs)
-- [James Clear](https://twitter.com/jamesclear)
+- [David Heinemeier Hansson (DHH)](https://x.com/dhh)
+- [Jason Fried](https://x.com/jasonfried)
+- [Ryan Singer](https://x.com/rjs)
+- [James Clear](https://x.com/jamesclear)
