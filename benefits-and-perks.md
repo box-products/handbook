@@ -22,16 +22,45 @@ quite what we'd like them to be but we're working to improve them as often as po
 
 #### Medical Insurance
 
-Medical insurance is provided in the US via United Healthcare. At this time, the company pays varying range from 50-75% of the
+Medical insurance is provided in the US via Cigna. At this time, the company pays varying range from 50-75% of the
 premium depending on tier and the employee pays the remaining 50-25%. Open enrollment is in November every year, with
 new coverage beginning December 1\. Marriages and domestic partnerships are covered equally.
 
-Employee-portion of medical insurance premium per pay period:
 
-- Employee-only medical coverage: \$33.90
-- Employee-partner medical coverage: \$274.68
-- Employee-child(ren) medical coverage: \$75.91
-- Employee-family medical coverage: \$293.38
+**Comparison of Base PPO and Buy-Up PPO Plans**
+
+| **Feature**               | **Base PPO Plan**                       | **Buy-Up PPO Plan**                    |
+|---------------------------|-----------------------------------------|----------------------------------------|
+| **Deductible**            |                                         |                                        |
+| Individual                | $1,500                                  | $500                                   |
+| Family                    | $3,000                                  | $1,000                                 |
+| **Out-of-Pocket Maximum** |                                         |                                        |
+| Individual                | $5,000                                  | $3,000                                 |
+| Family                    | $10,000                                 | $6,000                                 |
+| **Office Visits**         |                                         |                                        |
+| Primary Care              | $25 co-pay                              | $20 co-pay                             |
+| Specialist                | $50 co-pay                              | $40 co-pay                             |
+| **Urgent Care**           | $75 co-pay                              | $50 co-pay                             |
+| **Preventive Care**       | Covered at 100%                         | Covered at 100%                        |
+| **Hospitalization**       | Deductible + 20% co-insurance           | Deductible + 10% co-insurance          |
+| **Emergency Room**        | $250 co-pay (waived if admitted)        | $150 co-pay (waived if admitted)       |
+| **Prescription Drugs**    |                                         |                                        |
+| Generic                  | $10 co-pay                              | $5 co-pay                              |
+| Brand (Preferred)        | $30 co-pay                              | $20 co-pay                             |
+| Brand (Non-preferred)    | $60 co-pay                              | $50 co-pay                             |
+| Specialty                | 20% co-insurance                        | 10% co-insurance                       |
+
+
+
+**Employee-portion of health insurance premium per pay period:**
+
+| **Coverage Type**              | **Base PPO Plan** | **Buy-Up PPO Plan** |
+|--------------------------------|-------------------|---------------------|
+| **Employee-only**              | $34.83           | $57.35             |
+| **Employee + Partner**         | $331.65          | $378.93            |
+| **Employee + Child(ren)**      | $93.68           | $136.46            |
+| **Employee + Family**          | $337.00          | $404.53            |
+
 
 #### Dental Insurance
 
@@ -41,10 +70,10 @@ equally.
 
 Employee-portion of dental insurance premium per pay period:
 
-- Employee-only dental: \$13.91
-- Employee-partner dental: \$27.05
-- Employee-child(ren) dental: \$32.94
-- Employee-family dental: \$48.27
+- Employee-only dental: \$13.97
+- Employee-partner dental: \$28.40
+- Employee-child(ren) dental: \$34.58
+- Employee-family dental: \$50.68
 
 #### Vision Insurance
 
@@ -54,7 +83,7 @@ equally.
 
 Employee-portion of vision insurance premium per pay period:
 
-- Employee-only vision: \$3.82
+- Employee-only vision: \$3.64
 - Employee-partner vision: \$7.43
 - Employee-child(ren) vision: \$7.05
 - Employee-family vision: \$10.82
