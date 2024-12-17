@@ -2,8 +2,8 @@
 layout: page
 title: "Executive, Manager, and Individual Responsibilities"
 chapter: "Chapter A1:"
-next_link: "Titles for Data Analysts →"
-next_url: "/appendix-02-titles-for-data"
+next_link: "Code of Conduct →"
+next_url: "/appendix-07-code-of-conduct"
 prev_link: "← International Travel Guide"
 prev_url: "/international-travel-guide"
 ---
