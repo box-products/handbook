@@ -6,8 +6,8 @@ next_link: " What We Stand For →"
 next_url: "/what-we-stand-for"
 ---
 
-Everyone working at SALT represents SALT. When a customer gets a response from Blake on support, Blake
-is SALT. When a customer reads a tweet by Jonathan that our systems are down, Jonathan is SALT. In those
+Everyone working at SALT represents SALT. When a customer gets a response from Victoria on support, Victoria
+is SALT. When a customer reads a post by Jonathan that our systems are down, Jonathan is SALT. In those
 situations, all the other stuff we do to cultivate our best image is secondary. What's right in front of someone in a
 time of need is what they'll remember.
 

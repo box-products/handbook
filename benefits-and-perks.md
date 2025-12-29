@@ -22,71 +22,76 @@ quite what we'd like them to be but we're working to improve them as often as po
 
 #### Medical Insurance
 
-Medical insurance is provided in the US via Cigna. At this time, the company pays varying range from 50-75% of the
-premium depending on tier and the employee pays the remaining 50-25%. Open enrollment is in November every year, with
-new coverage beginning December 1\. Marriages and domestic partnerships are covered equally.
+Medical insurance is provided in the US via Cigna using the Open Access Plus network. The company contributes toward medical premiums for employees and their families. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally.
 
+We offer two medical plan options: an OAR Buy-Up PPO plan and an HSA-Q EPO plan. The HSA-Q EPO plan has a higher deductible but qualifies for a Health Savings Account (HSA), which allows you to set aside pre-tax dollars for medical expenses.
 
-**Comparison of Base PPO and Buy-Up PPO Plans**
+**Comparison of OAR Buy-Up PPO and HSA-Q EPO Plans**
 
-| **Feature**               | **Base PPO Plan**                       | **Buy-Up PPO Plan**                    |
-|---------------------------|-----------------------------------------|----------------------------------------|
-| **Deductible**            |                                         |                                        |
-| Individual                | $1,500                                  | $500                                   |
-| Family                    | $3,000                                  | $1,000                                 |
-| **Out-of-Pocket Maximum** |                                         |                                        |
-| Individual                | $5,000                                  | $3,000                                 |
-| Family                    | $10,000                                 | $6,000                                 |
-| **Office Visits**         |                                         |                                        |
-| Primary Care              | $25 co-pay                              | $20 co-pay                             |
-| Specialist                | $50 co-pay                              | $40 co-pay                             |
-| **Urgent Care**           | $75 co-pay                              | $50 co-pay                             |
-| **Preventive Care**       | Covered at 100%                         | Covered at 100%                        |
-| **Hospitalization**       | Deductible + 20% co-insurance           | Deductible + 10% co-insurance          |
-| **Emergency Room**        | $250 co-pay (waived if admitted)        | $150 co-pay (waived if admitted)       |
-| **Prescription Drugs**    |                                         |                                        |
-| Generic                  | $10 co-pay                              | $5 co-pay                              |
-| Brand (Preferred)        | $30 co-pay                              | $20 co-pay                             |
-| Brand (Non-preferred)    | $60 co-pay                              | $50 co-pay                             |
-| Specialty                | 20% co-insurance                        | 10% co-insurance                       |
+| **In-Network Benefit Highlights** | **OAR Buy-Up PPO**                      | **HSA-Q EPO**                          |
+|-----------------------------------|-----------------------------------------|----------------------------------------|
+| **Network**                       | Open Access Plus                        | Open Access Plus                       |
+| **Deductible**                    |                                         |                                        |
+| Individual                        | $3,500                                  | $7,000                                 |
+| Family                            | $7,000                                  | $14,000                                |
+| **Coinsurance**                   | 30% (your share after deductible)       | 0% (your share after deductible)       |
+| **Out-of-Pocket Maximum**         |                                         |                                        |
+| Individual                        | $8,150                                  | $8,300                                 |
+| Family                            | $16,300                                 | $16,600                                |
+| **Preventive Care**               | $0 copay, deductible waived             | $0 copay, deductible waived            |
+| **Primary Care Office Visit**     | $25 copay, deductible waived            | 0% after deductible                    |
+| **Specialist Office Visit**       | $75 copay, deductible waived            | 0% after deductible                    |
+| **Mental Health / Counseling**    | $75 copay, deductible waived            | 0% after deductible                    |
+| **Diagnostic: X-Rays, Labs**      | 30% after deductible                    | 0% after deductible                    |
+| **Diagnostic: Imaging**           | 30% after deductible                    | 0% after deductible                    |
+| **Urgent Care Center**            | $50 copay, deductible waived            | 0% after deductible                    |
+| **Emergency Room**                | 30% after deductible                    | 0% after deductible                    |
+| **Outpatient Services**           | 30% after deductible                    | 0% after deductible                    |
+| **Inpatient Services**            | 30% after deductible                    | 0% after deductible                    |
 
+**Prescription Drug Coverage**
 
+| **Medication Type**     | **OAR Buy-Up PPO**                      | **HSA-Q EPO**                          |
+|-------------------------|-----------------------------------------|----------------------------------------|
+|                         | Retail (30 days) / Mail Order (90 days) | Retail (30 days) / Mail Order (90 days)|
+| **Generic**             | $10 / $25 copay                         | $10 / $25 copay (after deductible)     |
+| **Preferred Brand**     | $35 / $88 copay                         | $35 / $88 copay (after deductible)     |
+| **Non-Preferred Brand** | $75 / $188 copay                        | $75 / $188 copay (after deductible)    |
+| **Specialty**           | $250 / $625 copay                       | $250 / $625 copay (after deductible)   |
 
-**Employee-portion of health insurance premium per pay period:**
+**Note:** For the HSA-Q EPO plan, all prescription copays apply after you meet your deductible.
 
-| **Coverage Type**              | **Base PPO Plan** | **Buy-Up PPO Plan** |
-|--------------------------------|-------------------|---------------------|
-| **Employee-only**              | $34.83           | $57.35             |
-| **Employee + Partner**         | $331.65          | $378.93            |
-| **Employee + Child(ren)**      | $93.68           | $136.46            |
-| **Employee + Family**          | $337.00          | $404.53            |
+**Employee-portion of medical insurance premium (semi-monthly):**
+
+| **Coverage Type**              | **OAR Buy-Up PPO** | **HSA-Q EPO** |
+|--------------------------------|--------------------|---------------|
+| **Employee-only**              | $75.66             | $20.27        |
+| **Employee + Spouse**          | $472.39            | $356.06       |
+| **Employee + Child(ren)**      | $166.25            | $61.01        |
+| **Employee + Family**          | $509.48            | $343.30       |
 
 
 #### Dental Insurance
 
-Dental insurance is provided in the US via Principal. There is no company contribution at this time. Open enrollment is
-in November every year, with new coverage beginning December 1\. Marriages and domestic partnerships are covered
-equally.
+Dental insurance is provided in the US via Principal. The annual maximum benefit per person is $1,500. Preventative services are covered at 100%. Orthodontia benefit for children is available up to a lifetime maximum of $1,000. Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally.
 
-Employee-portion of dental insurance premium per pay period:
+Employee-portion of dental insurance premium (semi-monthly):
 
-- Employee-only dental: \$13.97
-- Employee-partner dental: \$28.40
-- Employee-child(ren) dental: \$34.58
-- Employee-family dental: \$50.68
+- Employee-only dental: $14.92
+- Employee + Spouse dental: $30.33
+- Employee + Child(ren) dental: $36.93
+- Employee + Family dental: $54.13
 
 #### Vision Insurance
 
-Vision insurance is provided in the US via Guardian. There is no company contribution at this time. Open enrollment is
-in November every year, with new coverage beginning December 1\. Marriages and domestic partnerships are covered
-equally.
+Vision insurance is provided in the US via Principal. In-network benefits include an eye exam ($10 copay), lenses ($25 copay), frames (up to $130 allowance), or contact lenses ($130 allowance). Open enrollment is in November every year, with new coverage beginning December 1. Marriages and domestic partnerships are covered equally.
 
-Employee-portion of vision insurance premium per pay period:
+Employee-portion of vision insurance premium (semi-monthly):
 
-- Employee-only vision: \$3.64
-- Employee-partner vision: \$7.43
-- Employee-child(ren) vision: \$7.05
-- Employee-family vision: \$10.82
+- Employee-only vision: $3.64
+- Employee + Spouse vision: $7.43
+- Employee + Child(ren) vision: $7.05
+- Employee + Family vision: $10.82
 
 ### 401K Plan
 
@@ -97,7 +102,7 @@ All eligible employees will be allowed to defer a percentage of their pay each p
 SALT offers the following paid time off:
 - 15 paid vacation days
 - 3 sick / personal days
-- a customized subset of 10 additional days based on the [US federal holidays](/appendix-09-holidays.html).
+- 8 company holidays based on the [US federal holidays](/appendix-09-holidays.html).
 
 As small but growing company, it's crucial that we utilize this paid time off respectfully. That said, we're not here to micro manage you. We have an informal tracking system, that empowers you to consider your teams circumstance, communicate with your oversight and ensure your team is prepared for your absence.
 

@@ -12,10 +12,11 @@ prev_url: "/appendix-08-performan-plans"
 
 These are the offically supported holidays at SALT. Let's be real though, who is tracking this anyway?! Be smart and follow the rule of thumb outlined in the [benefits](/benefits-and-perks) section of the handbook. If you need further clarification feel free to contact Jonathan.
 
-- New Years (Eve and Day)
+- New Year's Day (January 1)
+- Martin Luther King Day (Third Monday in January)
 - Memorial Day (Last Monday in May)
 - Independence Day (July 4)
-- Labor Day (1st Monday in September)
-- Veterans Day (November 11)
-- Thanksgiving (The floating thursday and Black Friday)
-- Christmas (Eve and Day)
+- Labor Day (First Monday in September)
+- Thanksgiving Day (Fourth Thursday in November)
+- The day after Thanksgiving
+- Christmas Day (December 25)
